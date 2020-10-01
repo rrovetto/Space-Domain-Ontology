@@ -32,5 +32,6 @@ CONTEXT: This has been a pursuit since 2011, when I conceived the concept (see m
 Ontology creator: Robert J. Rovetto, Univ.Maryland Alum (2007), SUNY Alum (2011)
 Email: rrovetto@terpalum.umd.edu, ontologos@yahoo.com
 
-##License##
-Give attribution. (c) Copyright 2011-2016 Robert J. Rovetto.
+## Rights
+© 2011-2020, Robert John Rovetto. All rights reserved.
+Not authorized for commercial use. Attribution required.
