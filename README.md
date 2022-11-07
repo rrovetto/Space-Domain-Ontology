@@ -2,6 +2,8 @@
 
 The SDO is an ontology of the space domain, of the space environment. The ontology name is general enough to encompass various astronomical and astronautical domains. It is to include (or import) different space entity classes or ontologies for space objects, space processes, space patterns, their interrelations, etc. If you find value in my work, please [support/donate here](https://gogetfunding.com/creating-meaning-full-space-terminologies-knowledge-models-for-space-safety/).
 
+## Author
+[Robert J. Rovetto](https://orcid.org/0000-0003-3835-7817)
 
 ## Note
 As such it encompasses a Space Object Ontology (e.g. see rrovetto/SOO, and other repositories), as a part. 
