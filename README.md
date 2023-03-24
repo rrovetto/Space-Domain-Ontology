@@ -2,11 +2,19 @@
 
 The SDO is an ontology of the space domain, of the space environment. The ontology name is general enough to encompass various astronomical and astronautical domains. It is to include (or import) different space entity classes or ontologies for space objects, space processes, space patterns, their interrelations, etc. If you find value in my work, please [support/donate here](https://gogetfunding.com/creating-meaning-full-space-terminologies-knowledge-models-for-space-safety/).
 
+## Description
+
+### Scope
+
+### Purpose
+
+### Architecture
+
 ## Author
 [Robert J. Rovetto](https://orcid.org/0000-0003-3835-7817)
 
-## Note
-As such it encompasses a Space Object Ontology (e.g. see rrovetto/SOO, and other repositories), as a part. 
+
+It encompasses the [Space Object Ontology](https://github.com/rrovetto/The-Space-Object-Ontology) (and other ontologies by the author), as a part. 
 Additionally, the SDO may be treated as a top-level ontology for the space domain, whereby the space domain is construed broadly to encompass astronomy, astronautics, space situational awareness and so on. Astronomical object classes, such as Planet, would then be included in this most general space ontology. The SDO may be equivalent to the Space Situational Awareness Ontology (SSAO) in a similar sense (see my other repositories), such that the names 'SDO' and 'SSAO' would be synonymous. Further development required. In general, As I've conceived it, thus far, SDO is most general, followed by SSAO, and then SOO. Further development required on these considerations.
 
 ## Publications
@@ -35,9 +43,10 @@ CONTEXT: This has been a pursuit since 2011, when I conceived the concept (see m
 Ontology creator: Robert J. Rovetto, Univ.Maryland Alum (2007), SUNY Alum (2011)
 Email: rrovetto@terpalum.umd.edu, ontologos@yahoo.com
 
-### Support
+## Support
 If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
+
 ## Copyright
-© 2011-2021, Robert John Rovetto. All right reserved.
+© 2011-2023, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
 No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness or complete accuracy.
